@@ -1,7 +1,11 @@
 ---
 # An employee record
 name: Sonya D'vloper
+<<<<<<< HEAD
 job: Analyst
+=======
+job: Developer
+>>>>>>> origin/feature/version4
 skill: Elite
 employed: True
 foods:
